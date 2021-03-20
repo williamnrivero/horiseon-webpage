@@ -6,8 +6,7 @@ Challenge assignment week 1
 
 ## Link to the application
 
-file:///Users/williamnrivero/Desktop/Challenges/horiseon-webpage/Develop/index.html#online-reputation-management
-
+https://github.com/williamnrivero/horiseon-webpage
 
 ##  Description
 
